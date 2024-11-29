@@ -1,15 +1,24 @@
 # automatization
 trends in videos for advertising
 
-Trabajas como analista de vídeos publicitarios en la agencia de publicidad Sterling & Draper. Dedicas mucho tiempo a analizar tendencias de vídeos en YouTube para determinar qué contenido merece atención para la mercadotecnia.
+### **Título:** Dashboard de Tendencias en Videos Publicitarios  
+**Descripción:**  
+Este proyecto desarrolló un dashboard interactivo utilizando Tableau para analizar y visualizar tendencias en videos publicitarios de YouTube. El dashboard automatiza el análisis semanal y responde preguntas clave, como:  
 
-Cada video tiene una categoría específica (entretenimiento, música, noticias y política, etc.), una región y una fecha en que se hace tendencia.
+- ¿Qué categorías estuvieron en tendencias la semana pasada?  
+- ¿Cómo se distribuyeron las categorías en diversas regiones?  
+- ¿Qué categorías fueron particularmente populares en los Estados Unidos?  
 
-Un video puede estar en la sección de tendencias durante varios días seguidos.
+El análisis permitió identificar patrones clave para la mercadotecnia, proporcionando insights claros que facilitan la toma de decisiones estratégicas basadas en datos, además de reducir significativamente el tiempo requerido para realizar estas tareas manualmente.  
 
-Cada semana, las nuevas empleadas Melanie y Ashok te preguntan esto:
+### **Title:** Dashboard for Advertising Video Trends  
+**Description:**  
+This project developed an interactive dashboard using Tableau to analyze and visualize trends in YouTube advertising videos. The dashboard automates weekly analysis and answers key questions, such as:  
 
-¿Qué categorías estaban en las tendencias de la semana pasada?
-¿Cómo se distribuyeron en diversas regiones?
-¿Qué categorías fueron particularmente populares en los Estados Unidos?
-En tu sexta semana en el trabajo, decides que ya es momento de que el proceso sea automático. Vas a crear un dashboard para Melanie y Ashok.
+- What categories trended last week?  
+- How were categories distributed across different regions?  
+- Which categories were particularly popular in the United States?  
+
+The analysis identified key marketing patterns, delivering clear insights to support data-driven strategic decisions and significantly reducing the time required for manual tasks.  
+
+ 

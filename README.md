@@ -21,4 +21,5 @@ This project developed an interactive dashboard using Tableau to analyze and vis
 
 The analysis identified key marketing patterns, delivering clear insights to support data-driven strategic decisions and significantly reducing the time required for manual tasks.  
 
+ Dasboard: https://public.tableau.com/views/Automation_17253966448530/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  
